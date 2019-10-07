@@ -1,0 +1,19 @@
+{
+  "name": "2019_autumn_webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gohdong/2019_autumn_webapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gohdong/2019_autumn_webapp/issues"
+  },
+  "homepage": "https://github.com/gohdong/2019_autumn_webapp#readme"
+}
